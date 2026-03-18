@@ -1,53 +1,8 @@
 # Sherin-Cognitor
 
-Sherin-Cognitor/
-│
-├── .github/                  # GitHub-specific files
-│   ├── ISSUE_TEMPLATE/       # Issue templates
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── workflows/            # GitHub Actions workflows
-│       └── python-app.yml
-│
-├── assets/                   # Visual assets
-│   ├── diagrams/             # Architecture and flow diagrams
-│   │   ├── architecture.png
-│   │   ├── workflow.png
-│   │   └── data_flow.png
-│   ├── gifs/                 # Animated GIFs
-│   │   ├── voice_command.gif
-│   │   ├── screen_reading.gif
-│   │   ├── document_creation.gif
-│   │   └── cursor_overlay.gif
-│   ├── images/               # Screenshots and logos
-│   │   ├── logo.png
-│   │   ├── banner.png
-│   │   ├── screenshot1.png
-│   │   └── screenshot2.png
-│   └── branding/             # Branding assets
-│       ├── color_palette.png
-│       └── typography.png
-│
-├── docs/                     # Documentation
-│   ├── installation.md       # Visual installation guide
-│   ├── usage.md              # Usage guide with screenshots
-│   ├── architecture.md       # Architecture overview with diagrams
-│   └── faq.md                # Frequently asked questions
-│
-├── src/                      # Source code
-│   ├── core/                 # Core modules
-│   ├── models/               # AI models
-│   ├── ui/                   # User interface
-│   ├── scripts/              # Utility scripts
-│   └── tests/                # Unit and integration tests
-│
-├── .env.example              # Environment variables template
-├── .gitignore                # Git ignore rules
-├── LICENSE                   # License file
-├── requirements.txt          # Python dependencies
-├── start.bat                 # Windows startup script
-├── start.sh                  # Linux/macOS startup script
-└── README.md                 # Main README file
+#1. Repository Structure
+<img width="902" height="857" alt="image" src="https://github.com/user-attachments/assets/dbbf1240-2711-403a-94a8-8a163ef13da6" />
+<img width="900" height="386" alt="image" src="https://github.com/user-attachments/assets/5b249220-272f-40ab-a935-a4178295e287" />
 
 
 #README>MD
@@ -143,19 +98,8 @@ Voice Commands
 Chat Interface
 Access the chat interface at http://localhost:5000.
 
-📂 Project Structure
-Sherin-Cognitor/
-├── assets/                   # Visual assets
-├── docs/                     # Documentation
-├── src/                      # Source code
-│   ├── core/                 # Core modules
-│   ├── models/               # AI models
-│   ├── ui/                   # User interface
-│   ├── scripts/              # Utility scripts
-│   └── tests/                # Unit and integration tests
-├── .env.example              # Environment variables template
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project README
+<img width="939" height="443" alt="image" src="https://github.com/user-attachments/assets/7b8e89d5-c521-4d2b-8d90-e86b7d722d83" />
+
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
