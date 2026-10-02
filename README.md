@@ -1,5 +1,21 @@
 # Sherin-Cognitor
 
+## Current Project Status — 2026-10-02
+
+The SHERIN image-generation work has reached a validated low-profile execution baseline on the HP ProBook 450 G4 development system.
+
+**Validated status**
+- Local image generation
+- Sparse temporal generation
+- 60 FPS output validation
+- Resource-aware execution
+- Safe fallback behavior under constrained resources
+
+**Development position**
+- Current system: HP ProBook 450 G4, 8 GB RAM, NVIDIA GeForce 930MX 2 GB
+- Higher-resource rendering workloads remain intended for stronger hardware
+- Next phase: integrate the validated image-generation baseline into the main SHERIN pipeline
+
 #1. Repository Structure
 <img width="902" height="857" alt="image" src="https://github.com/user-attachments/assets/dbbf1240-2711-403a-94a8-8a163ef13da6" />
 <img width="900" height="386" alt="image" src="https://github.com/user-attachments/assets/5b249220-272f-40ab-a935-a4178295e287" />
@@ -128,12 +144,12 @@ Happy Coding! 🚀
 ### **Diagrams**
 - **Architecture Diagram**: Visualize the system architecture.
 - **Workflow Diagram**: Show the agent's workflow.
-- **Data Flow Diagram**: Illustrate how data flows through the system.
+- **Data Flow Diagram**: Illustrate the system's workflow.
 
 ### **Animated GIFs**
 - **Voice Command**: Show the agent responding to voice commands.
 - **Screen Reading**: Demonstrate OCR in action.
-- **Document Creation**: Show the agent typing and creating documents.
+- **Document Creation**: Demonstrate document creation in action.
 - **Cursor Overlay**: Highlight the custom cursor overlay.
 
 ### **Screenshots**
